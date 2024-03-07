@@ -1,4 +1,4 @@
-components.html("""
+Components.html("""
 <div id= "chatbot">
 <script>
 !function(w, d, s, ...args){
